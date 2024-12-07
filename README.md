@@ -1,7 +1,7 @@
 # Time Tracker
 
 Java (Maven) application for tracking time on the job
-# good night
+# good morning
 ## Purpose
 
 Simple Java-app using Maven.
